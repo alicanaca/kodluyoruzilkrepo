@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![Proje Resmi](https://raw.githubusercontent.com/alicanaca/kodluyoruzilkrepo/main/kodluyoruz.png)
 
 ## Installation
 Proje linki
