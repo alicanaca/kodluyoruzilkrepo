@@ -6,6 +6,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Proje linki
 [git clone](https://github.com/alicanaca/kodluyoruzilkrepo.git)
 
+## Patika linki
+https://app.patika.dev/cymbolt
+
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
